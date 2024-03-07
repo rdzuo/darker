@@ -1,0 +1,8 @@
+ipdb
+tqdm
+xlutils
+torch==1.10.0 
+matplotlib
+numpy
+scikit_learn
+sktime==0.4.1
