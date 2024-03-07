@@ -1,5 +1,5 @@
 # DARKER
-The code of DARKER.
+The code and Appendix of DARKER.
 ## Setup
 ```bash
 pip install -r requirements.txt
