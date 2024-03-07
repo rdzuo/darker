@@ -6,7 +6,7 @@ pip install -r requirements.txt
 ```
 
 
-We use the UEA Download the datasets, download the raw, preprocess, weights data from https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/21482276_life_hkbu_edu_hk/EnI9aWHAXnBDrXyP5-d5_lwBcvIbRGBvgs-iOc0Tn1cMgA?e=Ojluxf
+We use the UEA datasets. Download the raw, preprocess, weights data from https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/21482276_life_hkbu_edu_hk/EnI9aWHAXnBDrXyP5-d5_lwBcvIbRGBvgs-iOc0Tn1cMgA?e=Ojluxf
 
 Create data folder
 ```bash
