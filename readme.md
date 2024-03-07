@@ -8,28 +8,23 @@ pip install -r requirements.txt
 
 We use the UEA Download the datasets, download the raw, preprocess, weights data from .
 
-One dataset BasicMotions is provided for running an example.
+For a dataset named BasicMotions, put it as follows:
 
-Put raw data in dir:
+Put raw data from /raw/ in dir:
 ```bash
-data/raw/
+data/raw/BasicMotions
 ```
-Put the preprocessed data in dir:
+Put the preprocessed data from /preprocess/ in dir:
 ```bash
-data/preprocess/
-```
-
-Put the weights data in dir:
-
-```bash
-data/preprocess_learned/
+data/preprocess/BasicMotions
 ```
 
+Put the weights data from /preprocess_learned/ in dir:
 
-install requirement:
 ```bash
-pip install -r requirements.txt
+data/preprocess_learned/BasicMotions
 ```
+
 
 
 ## Run an example
