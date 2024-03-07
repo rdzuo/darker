@@ -17,9 +17,9 @@ You can directly put all files from download link to data/
 Or for a specific dataset named BasicMotions, put it as follows:
 
 ```bash
-mkdir data/raw/
-mkdir data/preprocess/
-mkdir data/preprocess_learned/
+mkdir data/raw
+mkdir data/preprocess
+mkdir data/preprocess_learned
 ```
 
 Put raw data from download link /raw/ in dir:
