@@ -53,7 +53,10 @@ python src/main.py  --dataset dataset_name --model_name full
 ```
 
 To train a dataset for a method with hyperparameters (epcochs and batch size)
+
+```bash
 python src/main.py  --dataset dataset_name --epochs 200 --batch_size 32
+```
 
 
 
