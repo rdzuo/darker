@@ -6,20 +6,32 @@ pip install -r requirements.txt
 ```
 
 
-We use the UEA Download the datasets, download the raw, preprocess, weights data from .
+We use the UEA Download the datasets, download the raw, preprocess, weights data from https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/21482276_life_hkbu_edu_hk/EnI9aWHAXnBDrXyP5-d5_lwBcvIbRGBvgs-iOc0Tn1cMgA?e=Ojluxf
 
-For a dataset named BasicMotions, put it as follows:
+Create data folder
+```bash
+mkdir data
+```
+You can directly put all files from download link to data/
 
-Put raw data from /raw/ in dir:
+Or for a specific dataset named BasicMotions, put it as follows:
+
+```bash
+mkdir data/raw/
+mkdir data/preprocess/
+mkdir data/preprocess_learned/
+```
+
+Put raw data from download link /raw/ in dir:
 ```bash
 data/raw/BasicMotions
 ```
-Put the preprocessed data from /preprocess/ in dir:
+Put the preprocessed data from download link /preprocess/ in dir:
 ```bash
 data/preprocess/BasicMotions
 ```
 
-Put the weights data from /preprocess_learned/ in dir:
+Put the weights data from download link /preprocess_learned/ in dir:
 
 ```bash
 data/preprocess_learned/BasicMotions
