@@ -1,5 +1,7 @@
 # DARKER
 The code and Appendix of DARKER.
+The Appendix is shown in Appendix.pdf
+
 ## Setup
 ```bash
 pip install -r requirements.txt
