@@ -1,6 +1,6 @@
 # DARKER
-The code and Appendix of DARKER.
-The Appendix is shown in Appendix.pdf
+The code and full version with Appendix of DARKER.
+The full version is shown in full_version.pdf
 
 ## Setup
 ```bash
