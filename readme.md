@@ -1,6 +1,6 @@
 # DARKER
-The code and full version with Appendix of DARKER.
-The full version is shown in full_version.pdf
+The code and full version with Appendix of DARKER. 
+The full version of DARKER is shown in full_version.pdf
 
 ## Setup
 ```bash
@@ -67,5 +67,7 @@ To train a dataset for a method with hyperparameters (epcochs and batch size)
 python src/main.py  --dataset dataset_name --epochs 200 --batch_size 32
 ```
 
-
+# Previous work
+DARKER improves the efficiency of transformer for time series.
+Readers who are interested in time series transformer may refer to our previous work SVP-T (https://github.com/rdzuo/svp-transformer).
 
