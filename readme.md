@@ -69,9 +69,8 @@ python src/main.py  --dataset dataset_name --epochs 200 --batch_size 32
 
 ## Acknowledgments
 
-```bash
 Thanks for the research community for supporting the datasets. We are particularly grateful for the UCR/UEA TSC archive provided by University of East Anglia and University of California, Riverside.
-```
+
 
 
 # Previous work
