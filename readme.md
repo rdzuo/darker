@@ -67,6 +67,13 @@ To train a dataset for a method with hyperparameters (epcochs and batch size)
 python src/main.py  --dataset dataset_name --epochs 200 --batch_size 32
 ```
 
+## Acknowledgments
+
+'''bash
+Thanks for the research community for supporting the datasets. We are particularly grateful for the UCR/UEA TSC archive provided by University of East Anglia and University of California, Riverside.
+'''
+
+
 # Previous work
 DARKER improves the efficiency of transformer for time series.
 Readers who are interested in time series transformer may refer to our previous work SVP-T (https://github.com/rdzuo/svp-transformer).
