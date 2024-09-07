@@ -71,6 +71,26 @@ python src/main.py  --dataset dataset_name --epochs 200 --batch_size 32
 
 Thanks for the research community for supporting the datasets. We are particularly grateful for the UCR/UEA TSC archive provided by University of East Anglia and University of California, Riverside.
 
+If you find this code or any of the ideas in the paper useful, please consider citing:
+
+```bash
+@article{zuovldb2024,
+author = {Zuo, Rundong and Li, Guozhong and Cao, Rui and Choi, Byron and Xu, Jianliang and Bhowmick, Sourav S},
+title = {DARKER: Efficient Transformer with Data-Driven Attention Mechanism for Time Series},
+year = {2024},
+issue_date = {July 2024},
+publisher = {VLDB Endowment},
+volume = {17},
+number = {11},
+issn = {2150-8097},
+doi = {10.14778/3681954.3681996},
+journal = {Proc. VLDB Endow.},
+month = {aug},
+pages = {3229–3242},
+numpages = {14}
+}
+```
+
 
 
 # Previous work
